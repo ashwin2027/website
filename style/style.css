@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(228, 187, 73); 
+  }
+
+  body {
+    display: flow-root;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 100;
+  }
+
+  
